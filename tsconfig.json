@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "rootDir": "./src",
+    "outDir": "./out",
+    "module": "nodenext",
+    "esModuleInterop": true,
+    "noUncheckedIndexedAccess": true,
+    "strict": false,
+    "isolatedModules": true,
+    "noUncheckedSideEffectImports": true,
+    "moduleDetection": "force",
+    "skipLibCheck": true
+  }
+}
